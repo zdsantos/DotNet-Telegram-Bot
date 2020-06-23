@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zedequias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zedequias\\.nuget\\packages"
+    ]
+  }
+}
